@@ -1,0 +1,2 @@
+define(["require","exports","./ajax","../entities/recommend_item","../options/option_url"],function(e,t,n,r,i){"use strict";var o=function(){function e(){}return e.prototype.getCompFree=function(e,t,o){var u={sell_no_list:o,price_limit:e,is_fresh:t},c=i.COMMON_URL.COMBINE_FREE;return n(c,u,"get",{isAlertErr:!1}).then(function(e){return e?r.factory(e||[],r.RecommendFee):{}},function(){return null})},e}(),u=new o;return u});
+//# sourceMappingURL=free_postage_goods.js.map

@@ -1,0 +1,2 @@
+define(["require","exports","jquery","knockout"],function(e,n,r,t){"use strict";var u;return function(e){function n(e,n){for(var u=[],i=2;i<arguments.length;i++)u[i-2]=arguments[i];var o=new n(u);return r.each(e,function(e,n){var u=o[e];void 0!==u&&t.isWriteableObservable(u)?u.call(o,n):r.isFunction(u)||(o[e]=n)}),o}e.convert=n}(u||(u={})),u});
+//# sourceMappingURL=convertible.js.map

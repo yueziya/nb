@@ -1,0 +1,1 @@
+<xml><URL><![CDATA[http://chenzhao.tunnel.echomod.cn/php/9/advanced/frontend/web/index.php?r=wechat/valid]]></URL><ToUserName><![CDATA[44]]></ToUserName><FromUserName><![CDATA[455]]></FromUserName><CreateTime>55</CreateTime><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[上手]]></Content><MsgId>54</MsgId></xml>

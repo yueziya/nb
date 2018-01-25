@@ -1,0 +1,2 @@
+define(["require","exports","jquery"],function(n,i,t){"use strict";var u;return function(n){function i(n,i){t.each(i,function(i,u){t.isFunction(u)||(t.isFunction(n[i])?n[i].call(n,u):n[i]=u)})}n.update=i}(u||(u={})),u});
+//# sourceMappingURL=updatable.js.map

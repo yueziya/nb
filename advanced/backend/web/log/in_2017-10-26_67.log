@@ -1,0 +1,8 @@
+<xml><ToUserName><![CDATA[gh_5dd5312dbce9]]></ToUserName>
+<FromUserName><![CDATA[oLL3_wEmLnwzP557r9mQoaGy5V30]]></FromUserName>
+<CreateTime>1508986895</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx12072d2506733330&redirect_uri=http%3A%2F%2Fliyongjie.wang%2Fxiaoniao%2Fdazhao%2Fadvanced%2Fbackend%2Fweb%2Findex.php%3Fr%3Dweek%2Findex&response_type=code&scope=snsapi_userinfo&state=123#wechat_redirect]]></EventKey>
+<MenuId>437954929</MenuId>
+</xml>

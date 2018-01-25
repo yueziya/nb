@@ -1,0 +1,1 @@
+<div id="container"><span style="font-size: 30px;">你还没有注册公司，请点击<a href="?r=company/index01">立即注册</a>，让更多的求职找我们公司</span></div>

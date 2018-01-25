@@ -1,0 +1,2 @@
+define(["require","exports","./ajax","../entities/recommend_item","../options/option_url"],function(t,n,r,e,i){"use strict";return function(){return r(i.COMMON_URL.My_FOOTPRINT,{},"GET",{isAlertErr:!1}).then(function(t){return t?e.factoryT(t.packageList||[],e.Footprint):null},function(){return null})}});
+//# sourceMappingURL=footprint.js.map

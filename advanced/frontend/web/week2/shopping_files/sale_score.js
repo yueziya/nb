@@ -1,0 +1,2 @@
+define(["require","exports","./ajax","../options/option_url"],function(n,r,t,e){"use strict";var o=function(){function n(){}return n.prototype.querySaleScoreMap=function(n,r){var o={skuSeqs:n.join(","),skuSeqItNos:r.join(",")},u=e.COMMON_URL.GET_SALE_SCORE_MAP;return t(u,o,"post",{isAlertErr:!1}).then(function(n){return n?n:{}},function(){return null})},n}(),u=new o;return u});
+//# sourceMappingURL=sale_score.js.map

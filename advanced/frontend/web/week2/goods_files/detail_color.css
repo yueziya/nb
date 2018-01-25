@@ -1,0 +1,122 @@
+/*
+ * detail-color
+ * tmall huanse
+ * yangyang.li
+ */
+ @charset "utf-8";
+
+
+.dp-crumbs a:hover ,
+.info-guidance font ,
+.tariffs-info p.red ,
+.proAppraise .pa-top .pa-top-title font b ,
+.proAppraise .pa-top .pa-top-content .hp-box span font ,
+.proAppraise .pj-content li a.selected ,
+.fn_page .active a ,
+.detail-ul-saleinfo .counts .show-counts strong ,
+.colf22e00 ,
+.default-serviceBox h6 ,
+.default-serviceBox .high-red ,
+.yellow-priceInfo .yellow-ul li.li-yh .info-tzjj i,
+.dp-sideLook .side-title .title-barter:hover ,
+.dp-sideLook ul .look-title a:hover ,
+.fn_page a:hover ,
+.dp-pro-sc a.scdp-0:hover ,
+.dp-pro-sc a.scdp:hover ,
+.dp-tabsContent .dp-pro-groups .groups-mainPro span a:hover ,
+.prve a:hover ,
+.next a:hover {
+    color: #C20053;
+}
+
+.yellow-priceInfo .yellow-ul li.li-yh .info-price ,
+.dp-sideLook ul .look-price ,
+.booking-select-price .b-price ,
+.booking-select-price .w-price ,
+.dp-tabsContent .dp-pro-groups .groups-results p span b.price ,
+.dp-tabsContent .dp-pro-groups .groups-mainPro p ,
+.dp-tabsContent .dp-pro-groups .groups-results p span ,
+.dp-tabsContent .dp-pro-groups .groups-results p span em ,
+.booking-select-price .dd-select table .curr p ,
+.dp-dialog .dp-dialog-content .dialog-showBox .showDiv .price ,
+.pro-buiness .enterShop a:hover {
+    color: #C70034;
+}
+.detail-ul-saleinfo .norms .pro-norms.selected ,
+.pro-buiness .enterShop a:hover {
+	border-color: #C70034;
+}
+
+#Address-stock .area-list li a:hover ,
+.dp-pro-infotabs ul li a.selected ,
+.proAppraise .pa-top .pa-top-content .three-Appraise li div em ,
+.dp-tabsContent .dp-pro-tabs li a.selected ,
+.booking-select-price .dd-select table .curr .t {
+    background: #C20053;
+}
+.fstore-sysdetail-search-inshop .search-btn ,
+.detail-ul-saleinfo .salesInfo .redbg ,
+.dp-dialog .dp-dialog-content .gwcPay ,
+.dp-dialog .dp-dialog-content .dialog-ul li .tj-2 .dialog-TJBtn ,
+.booking-select-price .dd-select table .curr .t {
+    background: #C70034;
+}
+.fstore-sysdetail-search-inshop .search-btn:hover ,
+.dp-dialog .dp-dialog-content .gwcPay:hover ,
+.dp-dialog .dp-dialog-content .dialog-ul li .tj-2 .dialog-TJBtn:hover {
+   background: #D40034;
+}
+
+.info-pic-content .small-pic-content ul li.selected a ,
+#Address-stock .tab ,
+#Address-stock .tab .curr ,
+.dp-pro-infotabs ul li a.selected ,
+.detail-ul-saleinfo .color .pro-color.selected ,
+.dp-tabsContent .dp-pro-groups .groups-mainPro .select-mainProImg ,
+.dp-tabsContent .dp-pro-groups .groups-mainPro img:hover ,
+.dp-tabsContent .dp-pro-tabs li a.selected ,
+.detail-ul-saleinfo .packageSelect .selected ,
+.dp-red-dialog .dialog-content ,
+.dp-red-dialog .dialog-content ul li.t-color .dt .selected ,
+.dp-red-dialog .dialog-content ul li.t-size .dt .sizeBox:hover {
+    border-color: #C20053;
+}
+.dp-pro-infotabs ,
+.proAppraise .pj-content li a.selected ,
+.dp-tabsContent .dp-pro-tabs {
+    border-bottom-color: #C20053;
+}
+
+.dp-dialog .dp-dialog-content .p-word b ,
+.dp-crumbs .dp-crumbs-name ,
+.detail-ul-saleinfo .counts .wrap-input font[style] ,
+.dp-pro-info .pro-value font[color] ,
+.dp-dialog .dp-dialog-content .dialog-showBox .showDiv p a[style] {
+	color: #C20053!important;
+}
+#Address-stock .area-list li a[style] {
+	background: #C20053!important;
+}
+.pj-box .pj-box-content .pl-ul li .dt .zhan {
+    background: url(../images/zhan.gif?1234) left center no-repeat!important;
+}
+
+.dp-dialog .dp-dialog-content .dialog-showBox .showDiv:hover img {
+    border-color: #C20053;
+}
+
+.dp-dialog .dp-dialog-content .dialog-showBox .showDiv .price {
+    font-family: "microsoft yahei";
+}
+/*属性*/
+.sim_norms{
+    float: right;
+    color: #06c;
+}
+
+/*0726*/
+.dp-dialog .dp-dialog-content em.wrong-notice {
+    background: url(../images/dialog/X.png?1234) no-repeat!important;
+    width: 32px;
+    height: 32px;
+}
